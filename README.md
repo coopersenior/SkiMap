@@ -4,5 +4,5 @@ Interactive map of ski resorts in the United States.
 Created using MapBox.
 
 Images of the app running:
-ski-map/public/Demo
+https://github.com/coopersenior/SkiMap/tree/main/ski-map/public/Demo
 
