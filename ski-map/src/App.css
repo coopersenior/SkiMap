@@ -3,3 +3,8 @@ html, body, #root, .App {
   margin: 0;
   padding: 0;
 }
+
+.mapboxgl-popup {
+  z-index: 9999; /* Ensure the Popup appears above other elements */
+  pointer-events: auto; 
+}
